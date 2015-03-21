@@ -1,6 +1,6 @@
 # generator-ng-gulp-sass
 
-> Scaffold out a new AngularJS project
+> Scaffold out a new AngularJS project with Sass, Bootstrap and Gulp
 
 ## Install
 ```
