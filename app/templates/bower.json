@@ -1,0 +1,29 @@
+{
+  "name": "<%= appName %>",
+  "version": "0.0.0",
+  "description": "<%= description %>",
+  "license": "MIT",
+  "repository": "<%= githubUsername %>/<%= appNameSlug %>",
+  "author": {
+    "name": "<%= name %>",
+    "email": "<%= email %>",
+    "url": "<%= humanizedWebsite %>"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "modernizr": "2.8.x",
+    "angular": "1.4.x",
+    "zepto": "1.1.x",
+    "angular-animate": "1.4.x",
+    "angular-cookies": "1.4.x",
+    "angular-touch": "1.4.x",
+    "angular-sanitize": "1.4.x",
+    "angular-route": "1.4.x",
+    "bootstrap-sass-official": "3.3.x"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.4.x"
+  }
+}

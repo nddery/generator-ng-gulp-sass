@@ -1,0 +1,34 @@
+{
+  "name": "generator-ng-gulp-sass",
+  "version": "1.0.0",
+  "description": "Scaffold out a simple AngularJS project",
+  "license": "MIT",
+  "repository": "nddery/generator-ng-gulp-sass",
+  "author": {
+    "name": "Nicolas Duvieusart Déry",
+    "email": "nddery@gmail.com",
+    "url": "nddery.ca"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "plugin",
+    "boilerplate",
+    "template",
+    "scaffold",
+    "node",
+    "module",
+    "node_module",
+    "node-module"
+  ],
+  "dependencies": {
+    "humanize-url": "^1.0.1",
+    "normalize-url": "^1.2.0",
+    "yeoman-generator": "^0.18.10"
+  }
+}
